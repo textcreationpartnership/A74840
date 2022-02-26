@@ -1,0 +1,1284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The divine penitential meditations and vovves of His late Sacred Majesty in his solitude at Holmby-House, faithfully turned into verse. By E.R. Gentleman.</title>
+            <author>Reynolds, Edward, 1599-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74840</idno>
+            <idno type="STC">Thomason E560_27</idno>
+            <idno type="STC">ESTC R204961</idno>
+            <idno type="EEBO-CITATION">99864410</idno>
+            <idno type="PROQUEST">99864410</idno>
+            <idno type="VID">165206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165206)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E560[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The divine penitential meditations and vovves of His late Sacred Majesty in his solitude at Holmby-House, faithfully turned into verse. By E.R. Gentleman.</title>
+                  <author>Reynolds, Edward, 1599-1676.</author>
+                  <author>Charles I, King of England, 1600-1649, attributed name.</author>
+                  <author>Gauden, John, 1605-1662. Eikōn basilikē.</author>
+               </titleStmt>
+               <extent>[8], 8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[John Clowes],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A verse translation, by Edward Reynolds, of selections from: Eikōn basilikē, the text of which is included. Authorship of the Eikon basilike was originally attributed to Charles I, but according to Madan (pp. 125-33) it was written by John Gauden who probably included some authentic writings of the king.</note>
+                  <note>At head of title page: Numb. 1.</note>
+                  <note>With a portrait of Charles I on the verso of the first leaf.</note>
+                  <note>Printer's name from Madan.</note>
+                  <note>Annotation on Thomason copy: "June 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165206:1" rendition="simple:additions"/>
+            <p>
+               <hi>Numb.</hi> 1.</p>
+            <p>
+               <hi>THE DIVINE PENITENTIAL</hi> MEDITATIONS AND VOVVES OF HIS LATE Sacred Majeſtie IN HIS SOLITUDE AT HOLMBY-HO<g ref="char:V">Ʋ</g>SE, Faithfully turned into Verſe.</p>
+            <p>By E. R. <hi>Gentleman.</hi>
+            </p>
+            <q>
+               <hi>—Reſpiciat Deus. Bene cogitata—</hi>
+               <bibl>
+                  <hi>Senec.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, <hi>Printed in the Year,</hi> 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:165206:2"/>
+            <pb facs="tcp:165206:2"/>
+            <head>
+               <hi>To the</hi> READER</head>
+            <p>
+               <seg rend="decorInit">I</seg> Here preſent unto thee a flower plucked out of that moſt excellent ſtore<g ref="char:EOLhyphen"/>yard <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> mean<g ref="char:EOLhyphen"/>ly turned into vers, there<g ref="char:EOLhyphen"/>fore I may boldly applaud, and admire the one, and referre my owne unto thy cenſure, yet if this findes acceptance (from Loyall Subjects) it will incite me to proceed with the other Meditations; which if I ſhall not be ſo fortunate as to performe, I hope ſome more happier, &amp; Deviner Muſe will with an <hi>Elaborate</hi>
+               <pb facs="tcp:165206:3"/>
+Penne <hi>Dilucidate</hi> unto the world what is deficient in my Skill, but not in will, I am farr from deſiring any plaudit; <note place="margin">
+                  <hi>Menan<g ref="char:EOLhyphen"/>der.</hi>
+               </note> 
+               <hi>Om<g ref="char:EOLhyphen"/>nis inſipience arrogantia &amp; plauſibus capitor</hi> Every foole is won with pride and his own flattering applaude, but as I ſhould be ſorry to affect the one, ſo I hate, and diſreſpect the other, it ſhall be ſufficent to me, if I pleaſe them, who are Ravi<g ref="char:EOLhyphen"/>ſhed with theſe Divine Meditations; which like A <hi>Diamond</hi> cannot loſe their <hi>Luſter</hi> although they were mantled in <hi>Cimmerian-Darkneſs;</hi> The world muſt confeſſe with me that they are obſtacles to our profound <hi>Mercuraliſts,</hi> who can extract ſuch <hi>Sences</hi> out of the <hi>Sacred Scripture,</hi> that are again the ſence of com<g ref="char:EOLhyphen"/>mon reaſon, which yet catch poore ſilly people by Shooles, as Fiſhermen with Drag nets take their Fiſhes, yet are not (or will not) our <hi>Trumpettors</hi> be ſenſi<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:165206:3"/>
+of it, but either encourage them, or remain ſilent as in a Lethargie; And thus, ſince neither our former, nor preſent ſufferings can refine, or cleanſe our droſſie &amp; leprous ſoules: HOW may we hope that our correction is ended? or that the rod ſhall be burnt?</p>
+            <q>
+               <l>
+                  <note place="margin">
+                     <hi>Marius Nictor.</hi>
+                  </note>
+                  <hi>Nil hoſtes, nil dira fames, nil deing morbi</hi>
+               </l>
+               <l>
+                  <hi>Egerunt, fuimus qui nunc ſumus ijs<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> periclis</hi>
+               </l>
+               <l>
+                  <hi>Tentati, nihilo meliores reddimur unquam,</hi>
+               </l>
+               <l>
+                  <hi>Sub vitijs nullo colparum finum manentes.</hi>
+               </l>
+            </q>
+            <q>
+               <lg>
+                  <l>Nor foes, nor famine, nor diſeaſes have</l>
+                  <l>Work't any change in us, that which we were,</l>
+                  <l>We conſtantly remain, and ſtill do crave</l>
+                  <l>To be entangled in the ſelf-ſame ſnare.</l>
+               </lg>
+               <lg>
+                  <l>No time can our depraved manners move,</l>
+                  <l>In vice we dwell, in endleſs ſin's our love.</l>
+               </lg>
+            </q>
+            <p>Which as it is too true, ſo muſt we ſtill expect heavier Judgments, &amp; none but ſuch who have the grape of Canaan. A good <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſcience will be able with patience to endure them; <note place="margin">
+                  <hi>Acts</hi> 27.</note> 'twas that made PAUL couragious in the turbulent A<g ref="char:EOLhyphen"/>driatical Sea (when the Mariners diſpaired) the tempeſtuous Euroclidon blowing, and ſuffer<g ref="char:EOLhyphen"/>ing 14. dayes want of meate and light; <note place="margin">
+                  <hi>Homer.</hi>
+               </note> 'Tis a good Conſcience that is like the Herbe Ne<g ref="char:EOLhyphen"/>penthes
+<pb facs="tcp:165206:4"/>
+which driveth away all ſadnes, 'tis a good Conſcience that without Muſick, or Wealth, or Honour, or Liberty, nay in a forced and unlawfull Death, is happy, and merry alone, <note place="margin">1 <hi>Pet.</hi> 2.17.</note> And it is that which I wiſh unto all who fear God and honour the King; For Conſcience is individuall and inſeperable, there is no putting of it to flight, or flying from it; <note place="margin">
+                  <hi>Lyps<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pol:</hi>
+               </note> 
+               <hi>nec fugere, nec fu<g ref="char:EOLhyphen"/>gare poteris,</hi> it was bread and borne with us, and ſaith (as Ruth to Naomi) I will go with thee whither ſoever thou goeſt. Therefore ſince our Kingdom is become a Pantheon (next after the Scripture,) I may well preſcribe this Panacea, which ſure none will refuſe for,
+<q>
+                  <l>
+                     <note place="margin">
+                        <hi>Seneca.</hi>
+                     </note>
+                     <hi>Miſer eſse mavult, eſse qui faelix poteſt?</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>Who miſerable doth deſire to be,</l>
+                  <l>That may be linked to felicity?</l>
+               </q>
+            </p>
+            <p>Yet if any ſhall (as I am confident many wil) find fault with me, I only deſire them, either to mend what I have moſt willingly begun, or lay them away, and not afford them any ſpare time for reading.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:165206:4"/>
+            <head>Penitentiall Meditations AND Vowes in the KINGS <hi>Solitude</hi> at <hi>Holmby.</hi>
+            </head>
+            <div type="meditation">
+               <p>GIve eare to my words O Lord, conſider my <hi>Meditations,</hi> and hearken to the voice or my cry my <hi>King,</hi> and my <hi>God,</hi> for unto thee will I pray.</p>
+               <lg>
+                  <l>
+                     <hi>GIve eare unto my words (O Lord)</hi>
+                  </l>
+                  <l>
+                     <hi>My</hi> Meditations <hi>think upon</hi>
+                  </l>
+                  <l>
+                     <hi>To<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> voice of my ſad cry accord.</hi>
+                  </l>
+                  <l>
+                     <hi>My</hi> King <hi>my</hi> God <hi>to thee alone,</hi>
+                  </l>
+                  <l>
+                     <hi>I'le offer up my ſupplication.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>I ſaid in my haſt, I am caſt out of the ſight of thine eyes: neverthe<g ref="char:EOLhyphen"/>leſſe, thou heareſt the voice of my ſupplication, when I cry unto Thee.</p>
+               <lg>
+                  <l>
+                     <hi>I unadviſedly did ſay,</hi>
+                  </l>
+                  <l>
+                     <hi>That I am caſt out of thy ſight,</hi>
+                  </l>
+                  <l>
+                     <hi>Of thy clear eyes more bright then day.</hi>
+                  </l>
+                  <l>
+                     <hi>Yet thou to heare me doſt delight.</hi>
+                  </l>
+                  <l>
+                     <hi>When I with cryes to thee ſhow my ſad plight.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>If thou Lord ſhouldeſt be ex<g ref="char:EOLhyphen"/>tream to mark what's done amiſſe, who can abide it? But there is mer<g ref="char:EOLhyphen"/>cy with thee, that thou mayſt be feared; therefore ſhall ſinners fly unto thee.</p>
+               <lg>
+                  <l>
+                     <hi>If thou (ſweet Lord) ſhouldſt be extream</hi>
+                  </l>
+                  <l>
+                     <hi>To notifie what's done amiſſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Who can abide't? but thy bright beame</hi>
+                  </l>
+                  <l>
+                     <hi>Shines mercy, which with feare muſt kiſs,</hi>
+                  </l>
+                  <l>
+                     <hi>Therefore ſhall ſinners fly to thee for blis.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>I acknowledge my ſins before thee, which have the aggravati<g ref="char:EOLhyphen"/>on of my condition; the eminen<g ref="char:EOLunhyphen"/>cy of my place, adding weight to my offences.</p>
+               <lg>
+                  <l>
+                     <hi>My leprous ſins I with contrition</hi>
+                  </l>
+                  <l>
+                     <hi>Acknowledge now before thy Grace,</hi>
+                  </l>
+                  <l>
+                     <hi>Which ponderous are by my condition,</hi>
+                  </l>
+                  <l>
+                     <hi>The Eminency of my place</hi>
+                  </l>
+                  <l>
+                     <hi>Adding much weight to them, which me deface.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <pb n="2" facs="tcp:165206:5"/>
+               <p>Forgive I beſeech thee, my Per<g ref="char:EOLhyphen"/>ſonall, and my Peoples ſins; which are ſo farre mine, as I have not improved the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>wer thou gav<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t me, to thy Glory, and my Subjects good.</p>
+               <lg>
+                  <l>
+                     <hi>Forget, forgive, I thee implore,</hi>
+                  </l>
+                  <l>
+                     <hi>My Perſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nall, and my Peoples ill</hi>
+                  </l>
+                  <l>
+                     <hi>Which are ſo added to my ſtore,</hi>
+                  </l>
+                  <l>
+                     <hi>As I improv'd nos power, and skill,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou gav'ſt me, for thee, &amp; their hurt to kill.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Thou haſt now brought me from the glory and freedom of a <hi>King,</hi> to be a Priſoner to my own Subjects.</p>
+               <lg>
+                  <l>
+                     <hi>And now thou haſt dejected me,</hi>
+                  </l>
+                  <l>
+                     <hi>From what my Glory did diſcloſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And freedom of a</hi> Majeſty,</l>
+                  <l>
+                     <hi>To be a Priſoner unto thoſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Who're my own Subjects, yet their</hi> King <hi>oppoſe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Juſtly O Lord as to thy over<g ref="char:EOLhyphen"/>ruling hand, becauſe in many things I have rebelled againſt Thee.</p>
+               <lg>
+                  <l>
+                     <hi>But juſtly 'tis (moſt mighty Lord)</hi>
+                  </l>
+                  <l>
+                     <hi>As to thy over ruling hand,</hi>
+                  </l>
+                  <l>
+                     <hi>Becauſe that I thy will defer'd,</hi>
+                  </l>
+                  <l>
+                     <hi>And contrary to thy Command,</hi>
+                  </l>
+                  <l>
+                     <hi>In oppoſition againſt thee did ſtand.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Though thou haſt reſtrained my Perſon, yet enlarge my heart to thee, and thy grace towards mee.</p>
+               <lg>
+                  <l>
+                     <hi>And yet although thou haſt reſtrain'd</hi>
+                  </l>
+                  <l>
+                     <hi>My Perſon, O enlarge my Heart,</hi>
+                  </l>
+                  <l>
+                     <hi>To thee my God, my God unfain'd,</hi>
+                  </l>
+                  <l>
+                     <hi>And let me have a greater part</hi>
+                  </l>
+                  <l>
+                     <hi>Of thy good Grace, for to o're way my ſmart</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>I come farre ſhort of <hi>Davids</hi> Pyety, yet ſince I may equall <hi>Davids</hi> afflictions, give me alſo the comforts, and the ſure mercies of <hi>David.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>I come far ſhort of</hi> Davids <hi>zeale,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet ſince in afflictions equall his</hi>
+                  </l>
+                  <l>
+                     <hi>I only unto thee appeale,</hi>
+                  </l>
+                  <l>
+                     <hi>For</hi> Davids <hi>Comforts (happy bliſs!)</hi>
+                  </l>
+                  <l>
+                     <hi>And the ſure mercies which he did not miſs.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Let the penitent ſence I have of my Sins, be an evidence to me thou haſt Pardoned them.</p>
+               <lg>
+                  <l>
+                     <hi>O let the feeling penitent ſence</hi>
+                  </l>
+                  <l>
+                     <hi>Which of my numerous ſins I have,</hi>
+                  </l>
+                  <l>
+                     <hi>Be unto me an evidence,</hi>
+                  </l>
+                  <l>
+                     <hi>That thy ſeal'd pardon will me ſave,</hi>
+                  </l>
+                  <l>
+                     <hi>And that thouſt buryed them within Chriſts grave.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <pb n="3" facs="tcp:165206:5"/>
+               <p>Let not the evills which I &amp; my Kingdomes have ſuffered, ſeeme little unto thee, though thou haſt not puniſhed us according to our ſins.</p>
+               <lg>
+                  <l>
+                     <hi>Let not the evills which both I,</hi>
+                  </l>
+                  <l>
+                     <hi>And all my Realmes have ſuffered,</hi>
+                  </l>
+                  <l>
+                     <hi>Seeme little to thy Majeſty,</hi>
+                  </l>
+                  <l>
+                     <hi>Although thou haſt not puniſhed</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>s; with ſuch paines as our great ſins have bred</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Turne thee (O Lord) unto me; have mercy upon me, for I am de<g ref="char:EOLhyphen"/>ſolate, and afflicted.</p>
+               <lg>
+                  <l>
+                     <hi>Turne thee (O Lord) turn unto me,</hi>
+                  </l>
+                  <l>
+                     <hi>Have mercy on thy Servant</hi> God,</l>
+                  <l>
+                     <hi>For I am fraught with miſery,</hi>
+                  </l>
+                  <l>
+                     <hi>O I am deſolate, and thy rod</hi>
+                  </l>
+                  <l>
+                     <hi>Hath much afflicted me my God! my God!</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>The ſorrows of my heart are enlarged: O bring thou me out of my troubles.</p>
+               <lg>
+                  <l>
+                     <hi>The ſorrowes of my bleeding heart</hi>
+                  </l>
+                  <l>
+                     <hi>Encreaſed be, enlarged are,</hi>
+                  </l>
+                  <l>
+                     <hi>O from thy mercy do not part,</hi>
+                  </l>
+                  <l>
+                     <hi>But fetter from me leane diſpaire,</hi>
+                  </l>
+                  <l>
+                     <hi>Bring thou me out from troubles, and my care.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Haſt thou forgotten to be gra<g ref="char:EOLhyphen"/>cious, and ſhut up thy loving kindneſſe in diſpleaſure.</p>
+               <lg>
+                  <l>
+                     <hi>Haſt thou forgotten for to be</hi>
+                  </l>
+                  <l>
+                     <hi>A gracious and a loving Lord?</hi>
+                  </l>
+                  <l>
+                     <hi>Haſt thou ſhut up thy bowells free,</hi>
+                  </l>
+                  <l>
+                     <hi>Thy loving kindneſs and thy word</hi>
+                  </l>
+                  <l>
+                     <hi>In black diſpleaſure, not for to be ſtird</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>O remember thy Compaſſions of ould, and thy loving Kindneſſes, which have been for many gene<g ref="char:EOLhyphen"/>rations.</p>
+               <lg>
+                  <l>
+                     <hi>O now remember, call to mind,</hi>
+                  </l>
+                  <l>
+                     <hi>Of old thy ſweet compaſſion,</hi>
+                  </l>
+                  <l>
+                     <hi>Thy kindneſſes which all did finde,</hi>
+                  </l>
+                  <l>
+                     <hi>And which had a Relation,</hi>
+                  </l>
+                  <l>
+                     <hi>To all thy Saints for many a Generation.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>I had utterly fainted, if I had not believed to ſee thy goodneſſe in the land of the Living.</p>
+               <lg>
+                  <l>
+                     <hi>Lord! I had fainted utterly</hi>
+                  </l>
+                  <l>
+                     <hi>If that my faith had not confirm'd</hi>
+                  </l>
+                  <l>
+                     <hi>My drooping heart to know that I,</hi>
+                  </l>
+                  <l>
+                     <hi>Should ſee thy goodneſs great enthron'd,</hi>
+                  </l>
+                  <l>
+                     <hi>Within the Land of th' living, ever own'd.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Let not the ſins of our proſperity deprive us of the benefit of thy af<g ref="char:EOLhyphen"/>flictions.</p>
+               <lg>
+                  <l>
+                     <hi>Let not the gilded ſwelling ſins</hi>
+                  </l>
+                  <l>
+                     <hi>Of our proſperity be ſhow'n,</hi>
+                  </l>
+                  <l>
+                     <hi>To take from us thy ſweet bleſſings,</hi>
+                  </l>
+                  <l>
+                     <hi>To take from us moſt wretched ones.</hi>
+                  </l>
+                  <l>
+                     <hi>The benefit of thy afflictions.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <pb n="4" facs="tcp:165206:6"/>
+               <p>Let this fiery Tryall conſume the droſſe, which in long peace and plenty wee had contra<g ref="char:EOLhyphen"/>cted.</p>
+               <lg>
+                  <l>
+                     <hi>O let this purging fiery Tryall</hi>
+                  </l>
+                  <l>
+                     <hi>Conſume the Canker and the droſs,</hi>
+                  </l>
+                  <l>
+                     <hi>Which we (who never uſ'd denyall)</hi>
+                  </l>
+                  <l>
+                     <hi>In our long peace and plenty groſs,</hi>
+                  </l>
+                  <l>
+                     <hi>Contracted had, not to our gain but loſs.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Though thou continueſt mi<g ref="char:EOLhyphen"/>ſeries, yet withdraw not thy grace what is wanting of proſpe<g ref="char:EOLhyphen"/>rity, make up in patience, and re<g ref="char:EOLhyphen"/>pentance.</p>
+               <lg>
+                  <l>
+                     <hi>Though thou continueſt miſeries,</hi>
+                  </l>
+                  <l>
+                     <hi>Thy grace yet do not Lord withdraw,</hi>
+                  </l>
+                  <l>
+                     <hi>What's wanting of proſperities,</hi>
+                  </l>
+                  <l>
+                     <hi>Make up in patience and in awe,</hi>
+                  </l>
+                  <l>
+                     <hi>As in repentance that we've brake thy Law.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>And if thy anger be not yet to be turned away, but thy hand of juſtice muſt be ſtretched out ſtill.</p>
+               <lg>
+                  <l>
+                     <hi>And if thy anger be not yet</hi>
+                  </l>
+                  <l>
+                     <hi>For to be turn'd from us away,</hi>
+                  </l>
+                  <l>
+                     <hi>But that thou doſt account it fit,</hi>
+                  </l>
+                  <l>
+                     <hi>Thy hand of Juſtice ſtill ſhould ſtay,</hi>
+                  </l>
+                  <l>
+                     <hi>Stretch out, ſharp puniſhment on us to lay.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Then will I make all the world to ſee, and my very enemies to enjoy the benefit of this Vow and Reſo<g ref="char:EOLhyphen"/>lution of Chriſtian Charity, which I now make unto thee O Lord.</p>
+               <lg>
+                  <l>
+                     <hi>Then will I make the world to ſee,</hi>
+                  </l>
+                  <l>
+                     <hi>And all my foes joy with content,</hi>
+                  </l>
+                  <l>
+                     <hi>The benefit of my Vow ſo free,</hi>
+                  </l>
+                  <l>
+                     <hi>And Chriſtian Charities intent,</hi>
+                  </l>
+                  <l>
+                     <hi>Which now to thee (O Lord) from me is ſent.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>As I do freely pardon for Chriſts ſake thoſe that have offended me in any kind.</p>
+               <lg>
+                  <l>
+                     <hi>As I do freely now forgive</hi>
+                  </l>
+                  <l>
+                     <hi>For Chriſt my worthy Saviours ſake,</hi>
+                  </l>
+                  <l>
+                     <hi>All thoſe who any wayes did ſtrive</hi>
+                  </l>
+                  <l>
+                     <hi>Me miſerable for to make,</hi>
+                  </l>
+                  <l>
+                     <hi>Or yet their malice on me for to ſtake.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>So my hand ſhall never be a<g ref="char:EOLhyphen"/>gainſt any man to revenge what is paſt, in regard of any particular injury done to me.</p>
+               <lg>
+                  <l>
+                     <hi>So ſhall my hand (which hate doth ſhun)</hi>
+                  </l>
+                  <l>
+                     <hi>Ne're lifted be 'gainſt any one,</hi>
+                  </l>
+                  <l>
+                     <hi>For to revenge what's paſt and done,</hi>
+                  </l>
+                  <l>
+                     <hi>In reference unto what was ſhowne,</hi>
+                  </l>
+                  <l>
+                     <hi>Particularly 'gainſt me, or yet my Throne.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>We have been mutually puniſh<g ref="char:EOLhyphen"/>ed in our unnaturall diviſions for thy ſake O Lord, and for the love of my Redeemer have I purpoſed this in my heart.</p>
+               <lg>
+                  <l>
+                     <hi>We mutually were puniſhed,</hi>
+                  </l>
+                  <l>
+                     <hi>By civill Warres unnaturall,</hi>
+                  </l>
+                  <l>
+                     <hi>For thy ſweet ſake (O Lord my Head)</hi>
+                  </l>
+                  <l>
+                     <hi>And for's ſake who for me did fall,</hi>
+                  </l>
+                  <l>
+                     <hi>This have I purpos'd in my heart to all.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <pb facs="tcp:165206:6"/>
+               <p>That I will uſe all meanes in the wayes of honeſty and indempnity; which may moſt fully remove all feares, and bury all jealouſies in forgetfulneſs.</p>
+               <lg>
+                  <l>
+                     <hi>That all meanes I will uſe to ſtay</hi>
+                  </l>
+                  <l>
+                     <hi>In the bleſt wayes of honeſty,</hi>
+                  </l>
+                  <l>
+                     <hi>Indempnity to give, which may</hi>
+                  </l>
+                  <l>
+                     <hi>Muſt fully make all feare to f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y,</hi>
+                  </l>
+                  <l>
+                     <hi>And in forgetfulneſs <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>combe jealouſie.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Let thy mercies be towards me and mine, as my reſolutions of Truth and Peace are towards my People.</p>
+               <lg>
+                  <l>
+                     <hi>O let thy mercies be to me</hi>
+                  </l>
+                  <l>
+                     <hi>Thy Servant Lord, and unto mine,</hi>
+                  </l>
+                  <l>
+                     <hi>As theſe my Reſolutions free,</hi>
+                  </l>
+                  <l>
+                     <hi>Of canded Peace and Truth incline,</hi>
+                  </l>
+                  <l>
+                     <hi>To thoſe, whom thou didſt unto me deſigne.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Heare my Prayer O Lord, which goeth not out of fained lips.</p>
+               <p>Bleſſed be God, who hath not turned away my Prayer, nor taken his mercy from me.</p>
+               <lg>
+                  <l>
+                     <hi>O Lord my God my prayer heare,</hi>
+                  </l>
+                  <l>
+                     <hi>Which out of lips fain'd go not out</hi>
+                  </l>
+                  <l>
+                     <hi>Bleſſed be God, who from my prayer,</hi>
+                  </l>
+                  <l>
+                     <hi>H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th never turn'd himſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f about,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor taken his mercy from me ſo to doubt.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>O my ſoule, commit thy way to the Lord, truſt in him, and he ſhall bring it to paſſe.</p>
+               <lg>
+                  <l>
+                     <hi>O my poor humble ſeeking ſoule,</hi>
+                  </l>
+                  <l>
+                     <hi>Commit thy way to the Lord alone</hi>
+                  </l>
+                  <l>
+                     <hi>Truſt in him, who doth all controle,</hi>
+                  </l>
+                  <l>
+                     <hi>And then be ſure (as it will be known)</hi>
+                  </l>
+                  <l>
+                     <hi>That he ſhall bring to paſs, for what you moane.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>But if thou wilt not reſtore me and mine, what am I that I ſhould charge thee fooliſhly?</p>
+               <lg>
+                  <l>
+                     <hi>But if thou (from thy Providence)</hi>
+                  </l>
+                  <l>
+                     <hi>Nor me, nor mine wilt not reſtore,</hi>
+                  </l>
+                  <l>
+                     <hi>What am I, what preheminence,</hi>
+                  </l>
+                  <l>
+                     <hi>Have I a ſilly worm moſt poore,</hi>
+                  </l>
+                  <l>
+                     <hi>To charge thee fooliſhly, whom I adore?</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Thou, O Lord, haſt given, and thou haſt taken, Bleſſed be thy Name.</p>
+               <lg>
+                  <l>
+                     <hi>Thou, thou O God, omnipotent Lord,</hi>
+                  </l>
+                  <l>
+                     <hi>Haſt, given, each thing from thee came,</hi>
+                  </l>
+                  <l>
+                     <hi>And thou who ruleſt with a word,</hi>
+                  </l>
+                  <l>
+                     <hi>Haſt taken from us wormes the ſame,</hi>
+                  </l>
+                  <l>
+                     <hi>Obſerved be! O bleſſed be thy Name!</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Let it I beſeech thee be againſt me, and my Fathers houſe; as for theſe ſheepe, what have they done?</p>
+               <lg>
+                  <l>
+                     <hi>O let it Lord (I thee intreat)</hi>
+                  </l>
+                  <l>
+                     <hi>Be turn'd from them, on me to light,</hi>
+                  </l>
+                  <l>
+                     <hi>And on my Fathers Houſe and Seate,</hi>
+                  </l>
+                  <l>
+                     <hi>For as theſe poore ſheepe in right</hi>
+                  </l>
+                  <l>
+                     <hi>What have they done? what hurt is in their ſight</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Let my ſufferings ſatiate the malice of mine, and thy Churches Enemies.</p>
+               <p>But let their cruelty never ex<g ref="char:EOLhyphen"/>ceed the meaſure of my cha<g ref="char:EOLhyphen"/>ity.</p>
+               <lg>
+                  <l>
+                     <hi>Let theſe my ſufferings ſatiate</hi>
+                  </l>
+                  <l>
+                     <hi>The cankered malice of my foe,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſuch who thy pure Church do hate.</hi>
+                  </l>
+                  <l>
+                     <hi>But let their cruelty never out-goe,</hi>
+                  </l>
+                  <l>
+                     <hi>My charity which J would have here flowe.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <pb n="6" facs="tcp:165206:7"/>
+               <p>Baniſh from me all thoughts of revenge, that I may not looſe the reward nor thou the glory of my patience.</p>
+               <lg>
+                  <l>
+                     <hi>Baniſh from me revengfull thoughts,</hi>
+                  </l>
+                  <l>
+                     <hi>That ſo I may not with offence.</hi>
+                  </l>
+                  <l>
+                     <hi>Loſe the reward which will be brought,</hi>
+                  </l>
+                  <l>
+                     <hi>And which to me thou wilt deſpence,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor thou the glory of my patience.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>As thou giveſt me a heart to for<g ref="char:EOLhyphen"/>give them, ſo I beſeech thee forgive what they have done againſt thee and me.</p>
+               <lg>
+                  <l>
+                     <hi>As thou to me doſt give a heart</hi>
+                  </l>
+                  <l>
+                     <hi>To pardon, and forgive them free,</hi>
+                  </l>
+                  <l>
+                     <hi>So I beſeech thy love impart</hi>
+                  </l>
+                  <l>
+                     <hi>Forgivenes to them ſpeedilie,</hi>
+                  </l>
+                  <l>
+                     <hi>For what they've done againſt, both thee and me.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>And now (O Lord) as thou haſt given me an heart to pray unto thee: ſo heare and accept this vow which I make before thee.</p>
+               <lg>
+                  <l>
+                     <hi>And now (O Lord) as thou haſt gave</hi>
+                  </l>
+                  <l>
+                     <hi>Me ſuch a plyant heart to pray,</hi>
+                  </l>
+                  <l>
+                     <hi>To thee, who ſolely canſt me ſave,</hi>
+                  </l>
+                  <l>
+                     <hi>So hear, and take without delay,</hi>
+                  </l>
+                  <l>
+                     <hi>This vow, which I before thee make this day</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>If thou wilt in mercy remember me and my Kingdoms, in continu<g ref="char:EOLhyphen"/>ing the light of thy Goſpell, and ſettling thy true Religion among us.</p>
+               <lg>
+                  <l>
+                     <hi>If that thou wilt in mercy (Lord)</hi>
+                  </l>
+                  <l>
+                     <hi>Think on me, and my Kingdoms too,</hi>
+                  </l>
+                  <l>
+                     <hi>Continuing the light of th'word,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſettling of Religion true,</hi>
+                  </l>
+                  <l>
+                     <hi>Amongſt us all ſo errors to eſcew,</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>In reſtoring unto us the benefit of the Lawes, and the due executi<g ref="char:EOLhyphen"/>on of juſtice.</p>
+               <lg>
+                  <l>
+                     <hi>And in reſtoring (from thy might)</hi>
+                  </l>
+                  <l>
+                     <hi>The benefit to every one,</hi>
+                  </l>
+                  <l>
+                     <hi>Of th'fundamentall Laws upright,</hi>
+                  </l>
+                  <l>
+                     <hi>With the due execution</hi>
+                  </l>
+                  <l>
+                     <hi>Of reall Juſtice, ſeated in her Throane.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>In ſuppreſſing the many Schiſmes in Church, and Factions in State.</p>
+               <lg>
+                  <l>
+                     <hi>In weeding, and ſuppreſſing all</hi>
+                  </l>
+                  <l>
+                     <hi>The poyſonous Schiſmes which from hate,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>pon the Church in weight do fall,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſuddainly to diſcipate,</hi>
+                  </l>
+                  <l>
+                     <hi>The Hydra factions of the State,</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>If thou wilt, reſtore me and mine to the ancient Rights, and Glory of my Predeceſſors.</p>
+               <lg>
+                  <l>
+                     <hi>If that thou wilt Lord me reſtore,</hi>
+                  </l>
+                  <l>
+                     <hi>And thoſe who are unto me nigh.</hi>
+                  </l>
+                  <l>
+                     <hi>To what we did injoy before,</hi>
+                  </l>
+                  <l>
+                     <hi>To th'ancient Rights, and Majeſty</hi>
+                  </l>
+                  <l>
+                     <hi>Of my true Predeceſſors ſeated high,</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <pb n="7" facs="tcp:165206:7"/>
+               <p>If thou wilt, turne the hearts of my people to thy ſelfe in Piety, to me in Loyalty, and to one another in Charity.</p>
+               <lg>
+                  <l>
+                     <hi>If thou my peoples hearts will turne,</hi>
+                  </l>
+                  <l>
+                     <hi>Vnto thy ſelf in pious Love,</hi>
+                  </l>
+                  <l>
+                     <hi>And make their loyall zeale to burne</hi>
+                  </l>
+                  <l>
+                     <hi>To me their King, and cauſe them move,</hi>
+                  </l>
+                  <l>
+                     <hi>To Charity, and onely it to prove.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>If thou wilt, quench the flames, and withdraw the fewell of theſe civill Warres.</p>
+               <lg>
+                  <l>
+                     <hi>If that thou wilt extinguiſh quite,</hi>
+                  </l>
+                  <l>
+                     <hi>The flames which cauſe ſuch during ſcarrs,</hi>
+                  </l>
+                  <l>
+                     <hi>And from thy goodnes infinite</hi>
+                  </l>
+                  <l>
+                     <hi>Withdraw our mind for moving jarres,</hi>
+                  </l>
+                  <l>
+                     <hi>And the apt fewell of continued Wars.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>If thou wilt, bleſſe us with the freedom of publick Counſells, and deliver the honour of Parliaments from the inſolency of the vulgar.</p>
+               <lg>
+                  <l>
+                     <hi>If for to bleſſe us thou'rt content,</hi>
+                  </l>
+                  <l>
+                     <hi>With publick Councells to be free,</hi>
+                  </l>
+                  <l>
+                     <hi>And keep the power of Parliament</hi>
+                  </l>
+                  <l>
+                     <hi>From the inſolence of ſuch, who be</hi>
+                  </l>
+                  <l>
+                     <hi>Breakers of Laws, and vulgar in Degree.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>If thou wilt, keep me from the great offence of enacting any thing againſt my Conſcience, and eſpecial<g ref="char:EOLhyphen"/>ly from conſenting to ſacriligious rapines &amp; ſpoilings of thy Church.</p>
+               <lg>
+                  <l>
+                     <hi>If thou'lt keep me from that great ſinne</hi>
+                  </l>
+                  <l>
+                     <hi>Of acting any thing, which</hi> I</l>
+                  <l>
+                     <hi>By conſcience know ſhould not have been</hi>
+                  </l>
+                  <l>
+                     <hi>And cheif, not to conſent to fly</hi>
+                  </l>
+                  <l>
+                     <hi>To ſpoile thy Church moſt ſacreligiouſly.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>If thou wilt, reſtore me to a capa<g ref="char:EOLhyphen"/>city of doing good, both to the Church and State.</p>
+               <lg>
+                  <l>
+                     <hi>If that thou (Lord) wilt me reſtore</hi>
+                  </l>
+                  <l>
+                     <hi>To a capacity, that ſo</hi>
+                  </l>
+                  <l>I <hi>may endeavour more and more</hi>
+                  </l>
+                  <l>
+                     <hi>To praiſe thee in the good</hi> I<hi>'le doe</hi>
+                  </l>
+                  <l>
+                     <hi>But to the Church, and State, which now is low.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Then ſhall my ſoul praiſe thee, and magnifie thy name before my people.</p>
+               <lg>
+                  <l>
+                     <hi>Then ſhall my never fainting ſoule,</hi>
+                  </l>
+                  <l>
+                     <hi>Praiſe thee thou Lord of glorious might.</hi>
+                  </l>
+                  <l>
+                     <hi>Then will</hi> I <hi>laud without controule</hi>
+                  </l>
+                  <l>
+                     <hi>And Magnifie (as it is right)</hi>
+                  </l>
+                  <l>
+                     <hi>Thy bleſſed name before my peoples ſight.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <pb n="8" facs="tcp:165206:8"/>
+               <p>Then ſhall thy glory be dearer to me then my Crowne, and the advancement of true religion both in purity and power, be my cheif<g ref="char:EOLhyphen"/>eſt care.</p>
+               <lg>
+                  <l>
+                     <hi>Then ſhall thy glory be more deare</hi>
+                  </l>
+                  <l>
+                     <hi>Vnto me, then my Crowns now are,</hi>
+                  </l>
+                  <l>
+                     <hi>And true Religion in its feare</hi>
+                  </l>
+                  <l>
+                     <hi>As in its purity moſt faire,</hi>
+                  </l>
+                  <l>
+                     <hi>For to advance, ſhall be my cheifeſt care.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>Then will I rule my people with juſtice, and my Kingdome with Equity.</p>
+               <lg>
+                  <l>
+                     <hi>Then will</hi> I <hi>rule impartially</hi>
+                  </l>
+                  <l>
+                     <hi>My People all as they will finde,</hi>
+                  </l>
+                  <l>
+                     <hi>With Juſtice, which ſhall hate defy,</hi>
+                  </l>
+                  <l>
+                     <hi>And all my Kingdoms to their minde</hi>
+                  </l>
+                  <l>
+                     <hi>With equity, which is with love combinde.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>To thy more immediate hand ſhall I ever owne as the rightfull ſucceſſion, to the mercifull reſtau<g ref="char:EOLhyphen"/>ration of my Kingdoms, and the glory of them.</p>
+               <lg>
+                  <l>
+                     <hi>As</hi> I<hi>'le the true ſucceſſion owne</hi>
+                  </l>
+                  <l>
+                     <hi>Vnto thy more immediate power.</hi>
+                  </l>
+                  <l>
+                     <hi>So the kinde reſtauration</hi>
+                  </l>
+                  <l>
+                     <hi>Of theſe my Kingdoms evermore</hi>
+                  </l>
+                  <l>
+                     <hi>To thee</hi> I <hi>yeeld, with all their glorious ſtore,</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>If thou wilt bring me againe with Peace, Safety, and Honour, to my cheifeſt City, and my Parliament.</p>
+               <lg>
+                  <l>
+                     <hi>If thou wilt bring me from thy pitty</hi>
+                  </l>
+                  <l>
+                     <hi>With Peace, with ſafety, and with Fame,</hi>
+                  </l>
+                  <l>
+                     <hi>Againe unto my cheifeſt City,</hi>
+                  </l>
+                  <l>
+                     <hi>And my true Parliament, whoſe Name</hi>
+                  </l>
+                  <l>
+                     <hi>I honour, nor do it deſire to ſhame.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>If thou againe wilt put the Sword of juſtice into my hand, to puniſh and protect.</p>
+               <lg>
+                  <l>
+                     <hi>If Lord, thou once wilt put againe</hi>
+                  </l>
+                  <l>
+                     <hi>The Sword of Juſtice in my hand</hi>
+                  </l>
+                  <l>
+                     <hi>Impartially for to remaine,</hi>
+                  </l>
+                  <l>
+                     <hi>To puniſh thoſe who hate Command,</hi>
+                  </l>
+                  <l>
+                     <hi>And a Protector for the good to ſtand.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="meditation">
+               <p>May my People and the Church be happy, if not by me, yet with<g ref="char:EOLhyphen"/>out me.</p>
+               <lg>
+                  <l>
+                     <hi>O may my people ev'ry one,</hi>
+                  </l>
+                  <l>
+                     <hi>And thy pure Church (thy beautuous love)</hi>
+                  </l>
+                  <l>
+                     <hi>Be happy, let their joy be knowne,</hi>
+                  </l>
+                  <l>
+                     <hi>If not by me, yet (God above)</hi>
+                  </l>
+                  <l>
+                     <hi>Without me ſinner let them proſp'rous prove.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>June</hi> 18. 1649.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>IOHN DOWNAME.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS</trailer>
+      </back>
+   </text>
+</TEI>
